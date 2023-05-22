@@ -1,0 +1,176 @@
+.h4{
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 5px solid;
+  width: 215px;
+  border-radius: 67px;
+  margin-top: 12px;
+  margin-left: 12px;
+  background-color: #4c4cf0;
+  text-align: center;
+  padding: 2px 220px 2px 15px;
+  color: white;
+}
+
+
+button{
+ background-color: whitesmoke;
+ margin: 2px;
+ padding: 8px;
+ text-align: center;
+ display: flex;
+ width: 10%;
+ float: right;
+ font-size: 13px;
+ height: 42px;
+ margin-top: -43px;
+ border-bottom-color: green green green green;
+}
+
+.login{
+  background-color: green;
+  border-color: white;
+}
+
+.login2{
+      height: 42px;
+      font-size: 17px;
+      border-color: green;
+}
+
+.imgbr{
+  height: 30px;
+  width: 44px;
+  float: right;
+  margin-top: -37px;
+  padding-right: 4px;
+}
+
+.jogos-preferidos{
+  margin-left: auto;
+  margin-right: auto;
+  font-family: cursive;
+  font-size: 80px;
+  width: 700px;
+  text-align: center;
+  margin-top: -40px;
+}
+
+.FONTE-JOGOS{
+  font-size: 20px;
+  font-family: cursive;
+  margin-left: 20px;
+}
+
+.imglol{
+  width: 100px;
+  border: 8px solid;
+  border-radius: 1000px;
+  color: rgb(212, 212, 212);
+  background-color: black;
+}
+
+.lolgifs{
+  width: 400px;
+  height: 250px;
+}
+
+.imgvalorant{
+  width: 100px;
+  border: 8px solid;
+  border-radius: 1000px;
+  color: rgb(212, 212, 212);
+}
+
+.valorantgifs{
+  width: 400px;
+  height: 250px;
+}
+
+.imgmine{
+  width: 125px;
+  border: 5px solid;
+  border-radius: 20px;
+  color: rgb(212, 212, 212);
+}
+
+.minegifs{
+  width: 400px;
+  height: 250px;
+}
+
+.imggta{
+  width: 100px;
+  border: 5px solid;
+  border-radius: 20px;
+  color: rgb(212, 212, 212);
+}
+
+.gtagifs{
+  width: 400px;
+  height: 250px;
+}
+
+.imgcs{
+  width: 100px;
+  border: 5px solid;
+  color: rgb(212, 212, 212);
+}
+
+.csgogifs{
+  width: 400px;
+  height: 250px;
+}
+
+body{
+  background-image: url(./imagens/fundo.png);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: bottom;
+  margin: auto;
+  background-repeat: repeat;
+}
+
+main{
+  color: rgb(0, 0, 0);
+}
+
+.p{
+  text-decoration: underline;                                                         
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-transform: uppercase;
+  margin-right: 65%;
+  padding: 5px 5px;
+  margin-bottom: 25px;
+  width: 500px;  
+}
+
+.p2{
+  margin-bottom: 160px;
+  text-decoration: underline;                                                         
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-transform: uppercase;
+  margin-right: 65%;
+  padding: 5px 5px;
+  width: 500px;
+}
+
+.p3{
+  width: 500px;
+  text-align: center;
+  margin-left: 35%;
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
+.insta{
+  width: 30px;
+  margin-left: 47%;
+  margin-bottom: 10px;
+}
+
+.insta1{
+  width: 30px;
+  margin-right: 47%;
+  margin-bottom: 10px;
+}
